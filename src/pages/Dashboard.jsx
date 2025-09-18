@@ -22,14 +22,9 @@ const Dashboard = () => {
           >
             Create New Blog
           </Link>
-          <a
-            href="/public-blog"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700"
-          >
-            View Public Site
-          </a>
+          <a href="../" target="_blank"
+             className="px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700">
+            View Public Site</a
         </div>
       </div>
       
